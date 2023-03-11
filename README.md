@@ -3,13 +3,13 @@
 
 
 AWS 
-- - https://aws.amazon.com/blogs/database/creating-an-amazon-cloudwatch-dashboard-to-monitor-amazon-rds-and-amazon-aurora-mysql/
-- - https://aws.amazon.com/premiumsupport/knowledge-center/eks-persistent-storage/
+- https://aws.amazon.com/blogs/database/creating-an-amazon-cloudwatch-dashboard-to-monitor-amazon-rds-and-amazon-aurora-mysql/
+- https://aws.amazon.com/premiumsupport/knowledge-center/eks-persistent-storage/
 - https://aws.amazon.com/premiumsupport/knowledge-center/cloudwatch-logs-bill-increase/
 - https://aws.amazon.com/premiumsupport/knowledge-center/cloudwatch-understand-and-reduce-charges/
 
 
-
+-----------------------------------
 
 
 K8s Collections 
@@ -22,7 +22,6 @@ K8s Collections
 - https://www.cybereason.com/blog/how-to-prevent-out-of-memory-in-java-based-kubernetes-pods
 - https://medium.com/@vipinvkmenon/running-kubectl-commands-within-a-kubernetes-job-439ed4852f68
 - https://abvijaykumar.medium.com/chapter-9-observability-metrics-prometheus-grafana-alert-manager-slack-notifications-b5dcac31b462
--
 - https://blog.ovhcloud.com/getting-external-traffic-into-kubernetes-clusterip-nodeport-loadbalancer-and-ingress/#:~:text=To%20reach%20the%20ClusterIp%20from%20an%20external%20computer%2C%20you%20can,(ClusterIp)%20for%20that%20Service%20
 - https://neo4j.com/developer-blog/deploying-neo4j-on-kubernetes-with-helm-charts/
 - https://kubernetes-sigs.github.io/aws-load-balancer-controller/v2.4/guide/integrations/external_dns/
@@ -30,6 +29,7 @@ K8s Collections
 - https://learnk8s.io/kubernetes-network-packets
 
 
+-----------------------------------
 
 
 
@@ -58,6 +58,7 @@ Prometheus & Grafana
 - https://sysdig.com/blog/prometheus-query-examples/
 
 
+-----------------------------------
 
 
 Others:  (SLA, SLO, SLI)
@@ -66,7 +67,6 @@ _ https://www.atlassian.com/incident-management/kpis/sla-vs-slo-vs-sli
 
 SonarQube 
 - https://dev.to/lakkimartin/install-sonarqube-on-kubernetes-aks-49o7
-
 
 
 
