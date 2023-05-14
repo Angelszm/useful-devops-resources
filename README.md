@@ -27,6 +27,7 @@ K8s Collections
 - https://kubernetes-sigs.github.io/aws-load-balancer-controller/v2.4/guide/integrations/external_dns/
 - https://iximiuz.com/
 - https://learnk8s.io/kubernetes-network-packets
+- https://medium.com/codex/capture-tcpdump-with-ksniff-and-wireshark-from-kubernetes-c212b93ff9f9
 
 
 -----------------------------------
